@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" output="target/test-classes" path="src/test/java"/>
+	<classpathentry including="**/*.java" kind="src" path="src/main/java"/>
+	<classpathentry excluding="**/*.java" kind="src" path="src/main/resources"/>
+	<classpathentry kind="var" path="M2_REPO" sourcepath="/M2_REPO"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas/Downloads/Cucumber Jar.files/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas/Downloads/Cucumber Jar.files/bsh-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas/Downloads/Cucumber Jar.files/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas/Downloads/Cucumber Jar.files/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas/Downloads/Cucumber Jar.files/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas/Downloads/Cucumber Jar.files/commons-exec-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas/Downloads/Cucumber Jar.files/commons-io-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas/Downloads/Cucumber Jar.files/commons-jxpath-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas/Downloads/Cucumber Jar.files/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas/Downloads/Cucumber Jar.files/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas/Downloads/Cucumber Jar.files/cssparser-0.9.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas/Downloads/Cucumber Jar.files/cucumber-core-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas/Downloads/Cucumber Jar.files/cucumber-html-0.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas/Downloads/Cucumber Jar.files/cucumber-java-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas/Downloads/Cucumber Jar.files/cucumber-junit-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas/Downloads/Cucumber Jar.files/guava-13.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas/Downloads/Cucumber Jar.files/hamcrest-core-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas/Downloads/Cucumber Jar.files/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas/Downloads/Cucumber Jar.files/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas/Downloads/Cucumber Jar.files/htmlunit-2.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas/Downloads/Cucumber Jar.files/htmlunit-core-js-2.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas/Downloads/Cucumber Jar.files/httpclient-4.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas/Downloads/Cucumber Jar.files/httpcore-4.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas/Downloads/Cucumber Jar.files/httpmime-4.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas/Downloads/Cucumber Jar.files/ini4j-0.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas/Downloads/Cucumber Jar.files/jchronic-0.2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas/Downloads/Cucumber Jar.files/jcommander-1.29.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas/Downloads/Cucumber Jar.files/jetty-websocket-8.1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas/Downloads/Cucumber Jar.files/jna-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas/Downloads/Cucumber Jar.files/jna-platform-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas/Downloads/Cucumber Jar.files/json-20080701.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas/Downloads/Cucumber Jar.files/junit-4.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas/Downloads/Cucumber Jar.files/junit-dep-4.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas/Downloads/Cucumber Jar.files/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas/Downloads/Cucumber Jar.files/nekohtml-1.9.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas/Downloads/Cucumber Jar.files/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas/Downloads/Cucumber Jar.files/operadriver-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas/Downloads/Cucumber Jar.files/phantomjsdriver-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas/Downloads/Cucumber Jar.files/protobuf-java-2.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas/Downloads/Cucumber Jar.files/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas/Downloads/Cucumber Jar.files/selenium-java-2.28.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas/Downloads/Cucumber Jar.files/selenium-java-2.28.0-srcs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas/Downloads/Cucumber Jar.files/serializer-2.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas/Downloads/Cucumber Jar.files/testng-6.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas/Downloads/Cucumber Jar.files/xalan-2.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas/Downloads/Cucumber Jar.files/xercesImpl-2.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas/Downloads/Cucumber Jar.files/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

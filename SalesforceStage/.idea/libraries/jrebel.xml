@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jrebel">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.metadata/.jrebel/jrebel.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

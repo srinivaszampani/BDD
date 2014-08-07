@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sun Mar 17 11:48:11 GMT 2013
+http\://repo.maven.apache.org/maven2/.lastUpdated=1363520891299
+https\://repository.jboss.org/nexus/content/groups/public-jboss/.error=Could not transfer artifact org.hamcrest\:hamcrest-core\:pom\:1.3 from/to jboss.org (https\://repository.jboss.org/nexus/content/groups/public-jboss)\: Connection to https\://repository.jboss.org refused
+default-http\://repository.codehaus.org/.lastUpdated=1363365631335
+http\://repository.codehaus.org/.error=Could not transfer artifact org.hamcrest\:hamcrest-core\:pom\:1.3 from/to codehaus (http\://repository.codehaus.org)\: Connection to http\://repository.codehaus.org refused
+default-https\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1363365647924

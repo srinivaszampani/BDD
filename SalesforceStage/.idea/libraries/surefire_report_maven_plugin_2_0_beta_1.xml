@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="surefire-report-maven-plugin-2.0-beta-1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.m2/repository/org/codehaus/mojo/surefire-report-maven-plugin/2.0-beta-1/surefire-report-maven-plugin-2.0-beta-1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

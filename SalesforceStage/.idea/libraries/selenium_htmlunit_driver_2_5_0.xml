@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="selenium-htmlunit-driver-2.5.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.m2/repository/org/seleniumhq/selenium/selenium-htmlunit-driver/2.5.0/selenium-htmlunit-driver-2.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

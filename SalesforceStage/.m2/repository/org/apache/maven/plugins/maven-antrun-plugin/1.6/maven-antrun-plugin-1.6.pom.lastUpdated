@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Mar 12 14:00:06 GMT 2013
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1363096806733
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.maven.plugins\:maven-antrun-plugin\:pom\:1.6 from/to central (http\://repo.maven.apache.org/maven2)\: Connection to http\://repo.maven.apache.org refused

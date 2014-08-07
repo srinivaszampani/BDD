@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Apr 02 15:18:58 BST 2013
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1364912338019
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.codehaus.mojo\:surefire-report-maven-plugin\:pom\:2.4 from/to central (http\://repo.maven.apache.org/maven2)\: Connection to http\://repo.maven.apache.org refused

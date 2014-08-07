@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="htmlunit-2.11">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.m2/repository/net/sourceforge/htmlunit/htmlunit/2.11/htmlunit-2.11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

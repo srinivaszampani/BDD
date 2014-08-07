@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="archetype-descriptor-2.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.m2/repository/org/apache/maven/archetype/archetype-descriptor/2.2/archetype-descriptor-2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

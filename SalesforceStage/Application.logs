@@ -1,0 +1,103 @@
+01/08/2013 09:31:02 devpinoyLogger Opening browser IE
+01/08/2013 09:31:06 devpinoyLogger Naviating to https://test.salesforce.com/?ec=302&startURL=%2Fhome%2Fhome.jsp
+01/08/2013 09:31:08 devpinoyLogger Typing in loginusername
+01/08/2013 09:31:08 devpinoyLogger Typing in loginusername
+01/08/2013 09:31:11 devpinoyLogger Typing in loginpassword
+01/08/2013 09:31:11 devpinoyLogger Typing in loginpassword
+01/08/2013 09:31:13 devpinoyLogger Clicking on loginButton
+01/08/2013 09:31:13 devpinoyLogger Clicking on loginButton
+01/08/2013 09:31:16 devpinoyLogger Checking object presence searchText
+01/08/2013 09:31:21 devpinoyLogger Opening browser IE
+01/08/2013 09:31:21 devpinoyLogger Naviating to https://test.salesforce.com/?ec=302&startURL=%2Fhome%2Fhome.jsp
+01/08/2013 09:31:22 devpinoyLogger Typing in loginusername
+01/08/2013 09:31:22 devpinoyLogger Typing in loginusername
+01/08/2013 09:31:25 devpinoyLogger Typing in loginpassword
+01/08/2013 09:31:25 devpinoyLogger Typing in loginpassword
+01/08/2013 09:31:28 devpinoyLogger Clicking on loginButton
+01/08/2013 09:31:28 devpinoyLogger Clicking on loginButton
+01/08/2013 09:31:31 devpinoyLogger Checking object presence searchText
+01/08/2013 09:31:37 devpinoyLogger Opening browser IE
+01/08/2013 09:31:37 devpinoyLogger Checking object presence searchText
+01/08/2013 09:31:42 devpinoyLogger Opening browser and logging in as a default user
+01/08/2013 09:31:42 devpinoyLogger Naviating to https://test.salesforce.com/?ec=302&startURL=%2Fhome%2Fhome.jsp
+01/08/2013 09:31:42 devpinoyLogger Typing in loginusername
+01/08/2013 09:31:43 devpinoyLogger Typing in loginpassword
+01/08/2013 09:31:44 devpinoyLogger Clicking on loginButton
+01/08/2013 09:31:54 devpinoyLogger Clicking on CustomersTab
+01/08/2013 09:31:54 devpinoyLogger Clicking on CustomersTab
+01/08/2013 09:31:57 devpinoyLogger Clicking on AllCustomers
+01/08/2013 09:31:57 devpinoyLogger Clicking on AllCustomers
+01/08/2013 09:32:01 devpinoyLogger Clicking on Customer
+01/08/2013 09:32:01 devpinoyLogger Clicking on Customer
+01/08/2013 09:32:06 devpinoyLogger Opening browser IE
+01/08/2013 09:32:06 devpinoyLogger Checking object presence searchText
+01/08/2013 09:32:06 devpinoyLogger Clicking on CustomersTab
+01/08/2013 09:32:06 devpinoyLogger Clicking on CustomersTab
+01/08/2013 09:32:09 devpinoyLogger Clicking on AllCustomers
+01/08/2013 09:32:09 devpinoyLogger Clicking on AllCustomers
+01/08/2013 09:32:13 devpinoyLogger Clicking on Customer
+01/08/2013 09:32:13 devpinoyLogger Clicking on Customer
+01/08/2013 09:32:18 devpinoyLogger Opening browser IE
+01/08/2013 09:32:18 devpinoyLogger Checking object presence searchText
+01/08/2013 09:32:18 devpinoyLogger Clicking on CustomersTab
+01/08/2013 09:32:18 devpinoyLogger Clicking on CustomersTab
+01/08/2013 09:32:21 devpinoyLogger Clicking on AllCustomers
+01/08/2013 09:32:21 devpinoyLogger Clicking on AllCustomers
+01/08/2013 09:32:25 devpinoyLogger Clicking on Customer
+01/08/2013 09:32:25 devpinoyLogger Clicking on Customer
+01/08/2013 09:32:30 devpinoyLogger Opening browser IE
+01/08/2013 09:32:30 devpinoyLogger Checking object presence searchText
+01/08/2013 09:32:30 devpinoyLogger Clicking on CustomersTab
+01/08/2013 09:32:30 devpinoyLogger Clicking on CustomersTab
+01/08/2013 09:32:33 devpinoyLogger Clicking on AllCustomers
+01/08/2013 09:32:33 devpinoyLogger Clicking on AllCustomers
+01/08/2013 09:32:37 devpinoyLogger Clicking on Customer
+01/08/2013 09:32:37 devpinoyLogger Clicking on Customer
+01/08/2013 09:32:42 devpinoyLogger Opening browser IE
+01/08/2013 09:32:42 devpinoyLogger Checking object presence searchText
+01/08/2013 09:32:42 devpinoyLogger Clicking on CustomersTab
+01/08/2013 09:32:42 devpinoyLogger Clicking on CustomersTab
+01/08/2013 09:32:45 devpinoyLogger Clicking on AllCustomers
+01/08/2013 09:32:45 devpinoyLogger Clicking on AllCustomers
+01/08/2013 09:32:49 devpinoyLogger Clicking on Customer
+01/08/2013 09:32:49 devpinoyLogger Clicking on Customer
+01/08/2013 09:32:54 devpinoyLogger Opening browser IE
+01/08/2013 09:32:54 devpinoyLogger Checking object presence searchText
+01/08/2013 09:32:54 devpinoyLogger Clicking on CustomersTab
+01/08/2013 09:32:54 devpinoyLogger Clicking on CustomersTab
+01/08/2013 09:32:57 devpinoyLogger Clicking on AllCustomers
+01/08/2013 09:32:57 devpinoyLogger Clicking on AllCustomers
+01/08/2013 09:33:01 devpinoyLogger Clicking on Customer
+01/08/2013 09:33:01 devpinoyLogger Clicking on Customer
+01/08/2013 09:33:06 devpinoyLogger Opening browser IE
+01/08/2013 09:33:06 devpinoyLogger Checking object presence searchText
+01/08/2013 09:33:06 devpinoyLogger Clicking on CustomersTab
+01/08/2013 09:33:06 devpinoyLogger Clicking on CustomersTab
+01/08/2013 09:33:09 devpinoyLogger Clicking on AllCustomers
+01/08/2013 09:33:09 devpinoyLogger Clicking on AllCustomers
+01/08/2013 09:33:13 devpinoyLogger Clicking on Customer
+01/08/2013 09:33:13 devpinoyLogger Clicking on Customer
+01/08/2013 09:33:19 devpinoyLogger Opening browser IE
+01/08/2013 09:33:19 devpinoyLogger Checking object presence searchText
+01/08/2013 09:33:19 devpinoyLogger Typing in SearchInput
+01/08/2013 09:33:19 devpinoyLogger Typing in SearchInput
+01/08/2013 09:33:19 devpinoyLogger Opening browser IE
+01/08/2013 09:33:19 devpinoyLogger Checking object presence searchText
+01/08/2013 09:33:19 devpinoyLogger Clicking on TabArrow
+01/08/2013 09:33:19 devpinoyLogger Clicking on TabArrow
+01/08/2013 09:33:23 devpinoyLogger Clicking on SpamFolder
+01/08/2013 09:33:23 devpinoyLogger Clicking on SpamFolder
+01/08/2013 09:33:27 devpinoyLogger Clicking on SpamId
+01/08/2013 09:33:27 devpinoyLogger Clicking on SpamId
+01/08/2013 09:33:32 devpinoyLogger Opening browser IE
+01/08/2013 09:33:32 devpinoyLogger Checking object presence searchText
+01/08/2013 09:33:32 devpinoyLogger Clicking on TabArrow
+01/08/2013 09:33:32 devpinoyLogger Clicking on TabArrow
+01/08/2013 09:33:35 devpinoyLogger Clicking on SpamFolder
+01/08/2013 09:33:35 devpinoyLogger Clicking on SpamFolder
+01/08/2013 09:33:38 devpinoyLogger Clicking on New2
+01/08/2013 09:33:38 devpinoyLogger Clicking on New2
+01/08/2013 09:33:43 devpinoyLogger Opening browser IE
+01/08/2013 09:33:43 devpinoyLogger Checking object presence searchText
+01/08/2013 09:33:44 devpinoyLogger Clicking on ThirdPartyLinks
+01/08/2013 09:33:44 devpinoyLogger Clicking on ThirdPartyLinks

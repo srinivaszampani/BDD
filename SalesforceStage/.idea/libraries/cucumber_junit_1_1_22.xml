@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="cucumber-junit-1.1.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.m2/repository/info/cukes/cucumber-junit/1.1.2/cucumber-junit-1.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
