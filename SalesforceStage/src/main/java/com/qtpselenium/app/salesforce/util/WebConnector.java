@@ -46,8 +46,8 @@ public class WebConnector {
 				fs  = new FileInputStream(System.getProperty("user.dir")+"\\src\\main\\java\\com\\qtpselenium\\app\\salesforce\\config\\"+OR.getProperty("testEnv")+"_config.properties");
 				CONFIG.load(fs);
 				
-				//System.out.println(OR.getProperty("loginusername"));
-				//System.out.println(CONFIG.getProperty("loginURL"));
+				System.out.println(OR.getProperty("loginusername"));
+				System.out.println(CONFIG.getProperty("loginURL"));
 				
 				
 			}catch(Exception e){
