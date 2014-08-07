@@ -15,10 +15,10 @@ public class LoginTest{
 	WebConnector selenium = WebConnector.getInstance(); //new WebConnector();
 	
 	@Given("^I go to \"([^\"]*)\" on \"([^\"]*)\"$")
-	public void I_Go_To_Salesforce(String URL,String browser){
-		System.out.println("I am going to "+ URL +" on  "+ browser);
+	public void I_Go_To_Salesforce(String loginURL,String browser){
+		System.out.println("I am going to "+ loginURL +" on  "+ browser);
 		selenium.openBrowser(browser);
-		selenium.navigate(URL);
+		selenium.navigate(loginURL);
 	}
 	@Given("^Runmode is \"([^\"]*)\"$")
 	public void Runmode_is(String Runmode){
