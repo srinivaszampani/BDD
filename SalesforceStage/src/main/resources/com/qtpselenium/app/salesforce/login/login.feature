@@ -14,6 +14,6 @@ Then Login should be "<Expected_Result>"
 
  Examples:
 |Runmode  | Browser    | Username            			        | Password 	      | Expected_Result |
-|  Y      | Chrome     | xxxxx    						        | zxxxx           | failure         |
-|  Y      | Chrome     | sri.zampani@tquila.com.fundqa          | liverpool2      | success         |
+|  Y      | IE         | xxxxx    						        | zxxxx           | failure         |
+|  Y      | IE         | sri.zampani@tquila.com.fundqa          | liverpool2      | success         |
  

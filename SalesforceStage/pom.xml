@@ -74,7 +74,7 @@
 						<argument>--format</argument>
 						<argument>html:target/cucumber-html-report</argument>
 						<argument>--tags</argument>
-						<argument>@login</argument>
+						<argument>@login,@CommonUtil</argument>
 						<argument>--glue</argument>
                         <argument>com</argument>
 						<argument>src/</argument>
