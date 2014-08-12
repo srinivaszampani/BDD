@@ -1,5 +1,5 @@
 [0.000][INFO]:      ChromeDriver 23.0.1240.0 C:\Users\srinivas\git\BDD\Salesforce\Chrome\chromedriver.exe
-[1.000][FINE]:      Initializing session with capabilities {
+[0.983][FINE]:      Initializing session with capabilities {
    "browserName": "chrome",
    "chrome.switches": [  ],
    "chromeOptions": {
@@ -10,7 +10,7 @@
    "version": ""
 }
 
-[1.000][INFO]:      Launching chrome: "C:\Program Files\Google\Chrome\Application\chrome.exe" --enable-logging --log-level=1 --disable-hang-monitor --disable-prompt-on-repost --dom-automation --full-memory-crash-report --no-default-browser-check --no-first-run --disable-background-networking --disable-sync --disable-translate --disable-web-resources --safebrowsing-disable-auto-update --safebrowsing-disable-download-protection --disable-client-side-phishing-detection --disable-component-update --disable-default-apps --ignore-certificate-errors about:blank
-[46.000][SEVERE]:   Failed to initialize connection
-[56.031][WARNING]:  Chrome still running, terminating...
-[56.031][INFO]:     Chrome shutdown
+[0.983][INFO]:      Launching chrome: "C:\Program Files\Google\Chrome\Application\chrome.exe" --enable-logging --log-level=1 --disable-hang-monitor --disable-prompt-on-repost --dom-automation --full-memory-crash-report --no-default-browser-check --no-first-run --disable-background-networking --disable-sync --disable-translate --disable-web-resources --safebrowsing-disable-auto-update --safebrowsing-disable-download-protection --disable-client-side-phishing-detection --disable-component-update --disable-default-apps --ignore-certificate-errors about:blank
+[45.983][SEVERE]:   Failed to initialize connection
+[56.033][WARNING]:  Chrome still running, terminating...
+[56.033][INFO]:     Chrome shutdown
