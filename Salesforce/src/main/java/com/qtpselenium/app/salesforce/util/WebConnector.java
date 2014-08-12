@@ -70,7 +70,7 @@ public class WebConnector {
 		}else if(browserType.equals("Mozilla") && mozilla!=null){
 			driver=mozilla;
 		}else if(browserType.equals("Chrome") && chrome==null){
-			System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir")+"//chrome//chromedriver.exe");
+			System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir")+"//Chrome//chromedriver.exe");
 			driver= new ChromeDriver();
 			chrome=driver;
 		}else if(browserType.equals("Chrome") && chrome==null){
