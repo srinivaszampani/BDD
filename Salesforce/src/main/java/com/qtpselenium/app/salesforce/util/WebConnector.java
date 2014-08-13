@@ -46,8 +46,8 @@ public class WebConnector {
 				fs  = new FileInputStream(System.getProperty("user.dir")+"\\src\\main\\java\\com\\qtpselenium\\app\\salesforce\\config\\"+OR.getProperty("testEnv")+"_config.properties");
 				CONFIG.load(fs);
 				
-				System.out.println(OR.getProperty("loginusername"));
-				System.out.println(CONFIG.getProperty("loginURL"));
+				//System.out.println(OR.getProperty("loginusername"));
+				//System.out.println(CONFIG.getProperty("loginURL"));
 				
 				
 			}catch(Exception e){
@@ -100,6 +100,7 @@ public class WebConnector {
 		
 	}
 	
+	/*
 	public void click1(String objectName){
 		log("Clicking on " + objectName);
 		try{
@@ -117,10 +118,10 @@ public class WebConnector {
 		//return;
 	}
 	
-	
+	*/
 	public void type(String text, String objectName){
 		log("Typing in " + objectName);
-		driver.findElement(By.xpath(OR.getProperty(objectName))).sendKeys(text);
+		driver.findElement(By.id(OR.getProperty(objectName))).sendKeys(text);
 	}
 	
 	public void select(String text, String objectName){
@@ -182,14 +183,14 @@ public class WebConnector {
 }
 */
 
-/*
+
 	public void takeScreenshot(String action) throws IOException {
 		//take a screenshot
 		File scrFile = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
 		// Now you can do whatever you need to do with it, for example copy somewhere
 		FileUtils.copyFile(scrFile, new File("target/" + System.currentTimeMillis() + action + ".jpg"));  
 	}
-*/
+
 	
 	
 	/// ****************Application dependent functions************************ ///

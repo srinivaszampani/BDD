@@ -29,17 +29,17 @@ public class LoginTest{
 			throw new PendingException("Skipping the test as Runmode is No");
 	}
 	@And("^I enter \"([^\"]*)\" as \"([^\"]*)\"$")
-	public void I_enter(String object,String text) throws IOException{
-		selenium.log("Typing in "+object);
-		System.out.println("Entering in "+ object +" value "+ text);
-		selenium.type(text, object);
+	public void I_enter(String objectName,String text) throws IOException{
+		selenium.log("Typing in "+objectName);
+		System.out.println("Entering in "+ objectName +" value "+ text);
+		selenium.type(text, objectName);
 		selenium.capturescreenshot("Notes");
 
     }
 	@And("^I click on \"([^\"]*)\"$")
-	public void I_click_on(String object) throws IOException{
-		selenium.log("Clicking on "+object);
-		selenium.click(object);
+	public void I_click_on(String objectName) throws IOException{
+		selenium.log("Clicking on "+objectName);
+		selenium.click(objectName);
 		selenium.capturescreenshot("Login");
 	}
 	
