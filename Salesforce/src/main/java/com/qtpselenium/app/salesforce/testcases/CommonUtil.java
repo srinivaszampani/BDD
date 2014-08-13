@@ -26,7 +26,7 @@ public class CommonUtil {
 			selenium.capturescreenshot("Login");
 		}
 	}
-	
+	/*
 	@And("^I click on \"([^\"]*)\"$")
 	public void I_click_on(String objectName) throws IOException{
 		selenium.log("Clicking on "+objectName);
@@ -42,19 +42,20 @@ public class CommonUtil {
 		selenium.capturescreenshot("Notes");
 
     }
-	/*
+	
 	@When("^I click1 on \"([^\"]*)\"$")
 	public void I_click1_on(String object) throws IOException{
 		selenium.log("Clicking on "+object);
 		selenium.click(object);
 		selenium.capturescreenshot("Email");
 	}
-	*/
+	
 	
 	@Then("^\"([^\"]*)\" element should be present$")
 	public void Element_Should_Be_Present(String objectName){
 		selenium.log("Element_Should_Be_Present  " + objectName);
 		//Assert.assertTrue("Object not found "+object , selenium.isElementPresent(object));
 	}
+	*/
 
 }

@@ -16,13 +16,14 @@ import cucumber.runtime.PendingException;
 //step layer
 public class LoginTest{
 	WebConnector selenium = WebConnector.getInstance(); //new WebConnector();
-	
+	/*
 	@Given("^I go to \"([^\"]*)\" on \"([^\"]*)\"$")
 	public void I_Go_To_Salesforce(String URL,String browser){
 		System.out.println("I am going to "+ URL +" on  "+ browser);
 		selenium.openBrowser(browser);
 		selenium.navigate(URL);
 	}
+	*/
 	@Given("^Runmode is \"([^\"]*)\"$")
 	public void Runmode_is(String Runmode){
 		if(Runmode.equals("N"))
