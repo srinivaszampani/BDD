@@ -18,7 +18,7 @@ public class LoginTest{
 	WebConnector selenium = WebConnector.getInstance(); //new WebConnector();
 	
 	@Given("^I go to \"([^\"]*)\" on \"([^\"]*)\"$")
-	public void I_go_to_Salesforce(String URL,String browser){
+	public void I_Go_To_Salesforce(String URL,String browser){
 		System.out.println("I am going to "+ URL +" on  "+ browser);
 		selenium.openBrowser(browser);
 		selenium.navigate(URL);
