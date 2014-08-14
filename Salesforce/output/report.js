@@ -75,7 +75,7 @@ formatter.match({
   "location": "LoginTest.Runmode_is(String)"
 });
 formatter.result({
-  "duration": 203261500,
+  "duration": 210324300,
   "status": "passed"
 });
 formatter.match({
@@ -92,7 +92,7 @@ formatter.match({
   "location": "LoginTest.I_Go_To_Salesforce(String,String)"
 });
 formatter.result({
-  "duration": 5693229800,
+  "duration": 5916231100,
   "status": "passed"
 });
 formatter.match({
@@ -109,7 +109,7 @@ formatter.match({
   "location": "LoginTest.I_enter(String,String)"
 });
 formatter.result({
-  "duration": 860717400,
+  "duration": 489345000,
   "status": "passed"
 });
 formatter.match({
@@ -126,7 +126,7 @@ formatter.match({
   "location": "LoginTest.I_enter(String,String)"
 });
 formatter.result({
-  "duration": 400454100,
+  "duration": 461543000,
   "status": "passed"
 });
 formatter.match({
@@ -139,7 +139,7 @@ formatter.match({
   "location": "LoginTest.I_click_on(String)"
 });
 formatter.result({
-  "duration": 512742600,
+  "duration": 662162400,
   "status": "passed"
 });
 formatter.match({
@@ -152,7 +152,7 @@ formatter.match({
   "location": "LoginTest.Then_login_should_be(String)"
 });
 formatter.result({
-  "duration": 5064335800,
+  "duration": 5041644600,
   "status": "passed"
 });
 formatter.scenario({
@@ -224,7 +224,7 @@ formatter.match({
   "location": "LoginTest.Runmode_is(String)"
 });
 formatter.result({
-  "duration": 106300,
+  "duration": 68800,
   "status": "passed"
 });
 formatter.match({
@@ -241,7 +241,7 @@ formatter.match({
   "location": "LoginTest.I_Go_To_Salesforce(String,String)"
 });
 formatter.result({
-  "duration": 508615200,
+  "duration": 371147800,
   "status": "passed"
 });
 formatter.match({
@@ -258,7 +258,7 @@ formatter.match({
   "location": "LoginTest.I_enter(String,String)"
 });
 formatter.result({
-  "duration": 1215679900,
+  "duration": 809636200,
   "status": "passed"
 });
 formatter.match({
@@ -275,7 +275,7 @@ formatter.match({
   "location": "LoginTest.I_enter(String,String)"
 });
 formatter.result({
-  "duration": 449787100,
+  "duration": 409224300,
   "status": "passed"
 });
 formatter.match({
@@ -288,7 +288,7 @@ formatter.match({
   "location": "LoginTest.I_click_on(String)"
 });
 formatter.result({
-  "duration": 6350005700,
+  "duration": 2035860600,
   "status": "passed"
 });
 formatter.match({
@@ -301,7 +301,7 @@ formatter.match({
   "location": "LoginTest.Then_login_should_be(String)"
 });
 formatter.result({
-  "duration": 5248252400,
+  "duration": 3361541800,
   "status": "passed"
 });
 });

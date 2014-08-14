@@ -21,11 +21,11 @@ public class Mail {
 	public static void main(String args[]) throws AddressException,
 			MessagingException {
 
-		Mail javaEmail = new Mail();
+		Mail Mail = new Mail();
 
-		javaEmail.setMailServerProperties();
-		javaEmail.createEmailMessage();
-		javaEmail.sendEmail();
+		Mail.setMailServerProperties();
+		Mail.createEmailMessage();
+		Mail.sendEmail();
 	}
 
 	public void setMailServerProperties() {
