@@ -1,4 +1,4 @@
-package com.qtpselenium.app.salesforce.util;
+package com.qtpselenium.app.salesforce.login;
 
 import java.util.Properties;
 
