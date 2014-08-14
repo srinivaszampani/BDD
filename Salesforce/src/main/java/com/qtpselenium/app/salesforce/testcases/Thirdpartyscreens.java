@@ -7,7 +7,7 @@ import org.junit.Assert;
 import com.qtpselenium.app.salesforce.util.WebConnector;
 
 import cucumber.api.java.en.Then;
-
+/*
 public class Thirdpartyscreens {
 	WebConnector selenium = WebConnector.getInstance(); //new WebConnector();
 	
