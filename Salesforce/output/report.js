@@ -75,12 +75,25 @@ formatter.match({
   "location": "LoginTest.Runmode_is(String)"
 });
 formatter.result({
-  "duration": 308974000,
+  "duration": 217888400,
   "status": "passed"
 });
-formatter.match({});
+formatter.match({
+  "arguments": [
+    {
+      "val": "loginURL",
+      "offset": 9
+    },
+    {
+      "val": "IE",
+      "offset": 23
+    }
+  ],
+  "location": "LoginTest.I_Go_To_Salesforce(String,String)"
+});
 formatter.result({
-  "status": "undefined"
+  "duration": 3781840600,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -96,7 +109,9 @@ formatter.match({
   "location": "LoginTest.I_enter(String,String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 5061690300,
+  "status": "failed",
+  "error_message": "org.openqa.selenium.NoSuchElementException: Unable to find element with id \u003d\u003d //*[@id\u003d\u0027username\u0027] (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 5.05 seconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: \u00272.28.0\u0027, revision: \u002718309\u0027, time: \u00272012-12-11 20:21:45\u0027\nSystem info: os.name: \u0027Windows 7\u0027, os.arch: \u0027x86\u0027, os.version: \u00276.1\u0027, java.version: \u00271.7.0_65\u0027\nSession ID: fc618cf3-91a6-4ef3-b22b-b852e602081e\nDriver info: org.openqa.selenium.ie.InternetExplorerDriver\nCapabilities [{platform\u003dWINDOWS, javascriptEnabled\u003dtrue, elementScrollBehavior\u003d0, ignoreZoomSetting\u003dfalse, enablePersistentHover\u003dtrue, ie.ensureCleanSession\u003dfalse, browserName\u003dinternet explorer, enableElementCacheCleanup\u003dtrue, unexpectedAlertBehaviour\u003ddismiss, version\u003d8, ie.usePerProcessProxy\u003dfalse, ignoreProtectedModeSettings\u003dfalse, cssSelectorsEnabled\u003dtrue, requireWindowFocus\u003dfalse, initialBrowserUrl\u003dhttp://localhost:21411/, handlesAlerts\u003dtrue, ie.forceCreateProcessApi\u003dfalse, nativeEvents\u003dtrue, browserAttachTimeout\u003d0, ie.browserCommandLineSwitches\u003d, takesScreenshot\u003dtrue}]\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:187)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:533)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:302)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:331)\r\n\tat org.openqa.selenium.By$ById.findElement(By.java:216)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:294)\r\n\tat com.qtpselenium.app.salesforce.util.WebConnector.type(WebConnector.java:124)\r\n\tat com.qtpselenium.app.salesforce.login.LoginTest.I_enter(LoginTest.java:36)\r\n\tat ✽.And I enter \"loginusername\" as \"xxxxx\"(com\\qtpselenium\\app\\salesforce\\login\\login.feature:10)\r\n"
 });
 formatter.match({
   "arguments": [
@@ -207,12 +222,26 @@ formatter.match({
   "location": "LoginTest.Runmode_is(String)"
 });
 formatter.result({
-  "duration": 118400,
+  "duration": 79300,
   "status": "passed"
 });
-formatter.match({});
+formatter.match({
+  "arguments": [
+    {
+      "val": "loginURL",
+      "offset": 9
+    },
+    {
+      "val": "IE",
+      "offset": 23
+    }
+  ],
+  "location": "LoginTest.I_Go_To_Salesforce(String,String)"
+});
 formatter.result({
-  "status": "undefined"
+  "duration": 14911200,
+  "status": "failed",
+  "error_message": "org.openqa.selenium.NoSuchWindowException: Error retrieving window with handle current (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 14 milliseconds\nBuild info: version: \u00272.28.0\u0027, revision: \u002718309\u0027, time: \u00272012-12-11 20:21:45\u0027\nSystem info: os.name: \u0027Windows 7\u0027, os.arch: \u0027x86\u0027, os.version: \u00276.1\u0027, java.version: \u00271.7.0_65\u0027\nSession ID: fc618cf3-91a6-4ef3-b22b-b852e602081e\nDriver info: org.openqa.selenium.ie.InternetExplorerDriver\nCapabilities [{platform\u003dWINDOWS, javascriptEnabled\u003dtrue, elementScrollBehavior\u003d0, ignoreZoomSetting\u003dfalse, enablePersistentHover\u003dtrue, ie.ensureCleanSession\u003dfalse, browserName\u003dinternet explorer, enableElementCacheCleanup\u003dtrue, unexpectedAlertBehaviour\u003ddismiss, version\u003d8, ie.usePerProcessProxy\u003dfalse, ignoreProtectedModeSettings\u003dfalse, cssSelectorsEnabled\u003dtrue, requireWindowFocus\u003dfalse, initialBrowserUrl\u003dhttp://localhost:21411/, handlesAlerts\u003dtrue, ie.forceCreateProcessApi\u003dfalse, nativeEvents\u003dtrue, browserAttachTimeout\u003d0, ie.browserCommandLineSwitches\u003d, takesScreenshot\u003dtrue}]\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:187)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:533)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver$RemoteWebDriverOptions$RemoteWindow.maximize(RemoteWebDriver.java:755)\r\n\tat com.qtpselenium.app.salesforce.util.WebConnector.openBrowser(WebConnector.java:87)\r\n\tat com.qtpselenium.app.salesforce.login.LoginTest.I_Go_To_Salesforce(LoginTest.java:23)\r\n\tat ✽.Given I go to \"loginURL\" on \"IE\"(com\\qtpselenium\\app\\salesforce\\login\\login.feature:9)\r\n"
 });
 formatter.match({
   "arguments": [
